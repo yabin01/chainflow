@@ -1,0 +1,15 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+celery==5.3.4
+redis==5.0.1
+psycopg2-binary==2.9.7
+beautifulsoup4==4.12.2
+scrapy==2.11.0
+requests==2.31.0
+jieba==0.42.1
+transformers==4.35.2
+torch==2.1.1
+gunicorn==21.2.0
+django-filter==23.3
+python-dotenv==1.0.0
